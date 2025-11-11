@@ -42,7 +42,7 @@
 
 [題目三](trim_all_strings/main.go)
 
-請完成 TrimAllStrings 函式, 移除所有空白字元
+請完成 TrimAllStrings 函式, 移除字串頭尾空白字元
 
 1. 禁止修改 TrimAllStrings 類型標記
 
